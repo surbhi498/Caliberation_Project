@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.cshtml": "aspnetcorerazor",
+    "*.jsx ": "javascriptreact",
+    "vector": "cpp"
+  }
+}
